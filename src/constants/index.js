@@ -111,16 +111,13 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
+        title: "Web Developer Internship (Remote)",
+        company_name: "CODSOFT",
         icon: starbucks,
         iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
+        date: "Nov 2023 - Dec 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "During my internship in web development at CodSoft, I actively engaged in various aspects of the development life cycle. I collaborated remotely with a dynamic team to design, implement, and maintain responsive and user-friendly websites. My responsibilities included coding and debugging using HTML, CSS, and JavaScript, implementing front-end functionalities, and ensuring cross-browser compatibility."
         ],
     },
     {
@@ -173,12 +170,12 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: '/contact',
+        link: 'https://github.com/Mithunlavanyaraj',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: '/contact',
+        link: 'https://www.linkedin.com/in/mithunraj42/',
     }
 ];
 
@@ -186,43 +183,43 @@ export const projects = [
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'Amazon Price Tracker',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        name: 'E-COMMERCE WEBSITE',
+        description: 'Created a e-commerce website using HTML, CSS (bootstrap.CSS) and Js',
+        link: 'https://mrajprojects.neocities.org/E-commerce%20website/webpage',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Full Stack Threads Clone',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://github.com/adrianhajdin/threads',
+        name: 'PORTFOLIO WEBSITE',
+        description: 'Worked on creating a portfolio website for my own use and successfully completed the project ',
+        link: 'https://mrajprojects.neocities.org/My%20Portfolio/portfolio',
     },
     {
         iconUrl: car,
         theme: 'btn-back-blue',
-        name: 'Car Finding App',
-        description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        name: 'TRAVEL WEBSITE ',
+        description: 'Created a dynamic and visually appealing travel website that I designed',
+        link: 'https://mrajprojects.neocities.org/Travel%20website/hotel',
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
         name: 'Full Stack Instagram Clone',
         description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        link: '/projects',
     },
     {
         iconUrl: estate,
         theme: 'btn-back-black',
         name: 'Real-Estate Application',
         description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-        link: 'https://github.com/adrianhajdin/projects_realestate',
+        link: '/projects',
     },
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
         name: 'AI Summarizer Application',
         description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        link: 'https://github.com/adrianhajdin/project_ai_summarizer',
+        link: '/projects',
     }
 ];
